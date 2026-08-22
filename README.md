@@ -35,8 +35,8 @@ The script also auto-downloads the Cloudflare tunnel binary if it is missing.
 ## Installation
 
 ```bash
-git clone https://github.com/whoamitang/Blackeye
-cd Blackeye
+git clone https://github.com/Zeltothehacker/Pluto--Phishing_tool.git
+cd Pluto--Phishing_tool
 bash Pluto.sh
 ```
 
